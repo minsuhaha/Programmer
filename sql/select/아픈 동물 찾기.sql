@@ -1,7 +1,4 @@
-### 아픈 동물 찾기
-
-```sql
 SELECT ANIMAL_ID, NAME
 FROM ANIMAL_INS
 WHERE INTAKE_CONDITION = 'Sick';
-```
+
